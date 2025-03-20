@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rithick
-- 👀 I’m interested in React / Angular / Flutter..
-- 🌱 I’m currently learning React / Angular / Flutter..
+- 👀 I’m interested in React / Angular / Django..
+- 🌱 I’m currently learning React / Angular / Django..
 - 💞️ I’m looking to collaborate on any high paying reputed organization..
 - 📫 How to reach me 6382486876 / rithickraghu79@gmail.com
 - 😄 Pronouns: Mr. / He / Him
